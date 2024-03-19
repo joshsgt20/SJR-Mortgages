@@ -1,0 +1,2212 @@
+# Copyright (C) 2023 Coachify
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Coachify 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/coachify\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-01T05:43:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: coachify\n"
+
+#. Theme Name of the theme
+#. Author of the theme
+#: inc/getting-started/getting-started.php:18
+#: inc/getting-started/getting-started.php:19
+#: inc/template-functions.php:857
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/DashHeader.js:16
+msgid "Coachify"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://wpcoachify.com/"
+msgstr ""
+
+#. Description of the theme
+msgid "Coachify is a lead-generating coaching WordPress theme built for coaches, consultants, therapists, entrepreneurs, mentors, speakers, nutritionists and personal development experts. It is core web vital optimized, SEO-optimized, and schema-friendly to help you rank your website better. Built with performance in mind, this theme is lightning-fast and lightweight. It works flawlessly with popular page builders (Elementor and Gutenberg) to offer flexibility and make editing easier. Packed with tons of customization options such as color options, typography control, sidebar layouts and much more, this theme helps to create a highly engaging and interactive website that captivates your audience. Other notable features include WooCommerce compatibility, LMS compatibility, mobile-responsive design, translation-ready, RTL ready and much more. Check the starter templates here - https://wpcoachify.com/starter-templates/. Looking to build a site to showcase your expertise, build a strong online presence, and grow your business? Look no further. Try Coachify Theme today!"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://wpcoachify.com/about/"
+msgstr ""
+
+#: 404.php:29
+msgid "404 ERROR"
+msgstr ""
+
+#: 404.php:31
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:33
+msgid "The page you are looking for may have been moved, deleted, or possibly never existed. Go back to home and explore again."
+msgstr ""
+
+#: 404.php:35
+msgid "GO TO HOMEPAGE"
+msgstr ""
+
+#. translators: 1: comment count number.
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/custom-controls/range/class-range-control.php:59
+#: inc/custom-controls/spacing/class-spacing-control.php:44
+msgid "Desktop"
+msgstr ""
+
+#: inc/custom-controls/range/class-range-control.php:60
+#: inc/custom-controls/spacing/class-spacing-control.php:45
+msgid "Tablet"
+msgstr ""
+
+#: inc/custom-controls/range/class-range-control.php:61
+#: inc/custom-controls/spacing/class-spacing-control.php:46
+#: inc/extras.php:149
+msgid "Mobile"
+msgstr ""
+
+#: inc/custom-controls/range/class-range-control.php:62
+msgid "Reset"
+msgstr ""
+
+#: inc/custom-controls/spacing/class-spacing-control.php:37
+msgid "Link values"
+msgstr ""
+
+#: inc/custom-controls/spacing/class-spacing-control.php:38
+msgid "Un-link values"
+msgstr ""
+
+#: inc/custom-controls/spacing/class-spacing-control.php:40
+msgid "Top"
+msgstr ""
+
+#: inc/custom-controls/spacing/class-spacing-control.php:41
+#: inc/customizer/sections/archive.php:144
+#: inc/customizer/sections/blogpage.php:100
+#: inc/customizer/sections/singlepage.php:60
+msgid "Right"
+msgstr ""
+
+#: inc/custom-controls/spacing/class-spacing-control.php:42
+msgid "Bottom"
+msgstr ""
+
+#: inc/custom-controls/spacing/class-spacing-control.php:43
+#: inc/customizer/sections/archive.php:142
+#: inc/customizer/sections/blogpage.php:98
+#: inc/customizer/sections/singlepage.php:58
+msgid "Left"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:35
+msgid "System fonts"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:36
+msgid "Custom fonts"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:37
+msgid "Google fonts"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:40
+msgid "Font Family"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:41
+msgid "Font Weight"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:42
+msgid "Transform"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:44
+msgid "Variants"
+msgstr ""
+
+#: inc/custom-functions.php:46
+#: inc/custom-functions.php:131
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:154
+#: inc/customizer/sections/colors.php:28
+#: inc/elementor-compatibility.php:37
+msgid "Primary Color"
+msgstr ""
+
+#: inc/custom-functions.php:160
+#: inc/customizer/sections/colors.php:49
+#: inc/elementor-compatibility.php:43
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/custom-functions.php:166
+msgid "Body Font Color"
+msgstr ""
+
+#: inc/custom-functions.php:172
+#: inc/elementor-compatibility.php:55
+msgid "Heading Color"
+msgstr ""
+
+#: inc/custom-functions.php:178
+msgid "Site Background Color"
+msgstr ""
+
+#: inc/custom-functions.php:524
+msgid "Name"
+msgstr ""
+
+#: inc/custom-functions.php:524
+msgid "Name*"
+msgstr ""
+
+#: inc/custom-functions.php:526
+msgid "Email"
+msgstr ""
+
+#: inc/custom-functions.php:526
+msgid "Email*"
+msgstr ""
+
+#: inc/custom-functions.php:528
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/DashHeader.js:23
+msgid "Website"
+msgstr ""
+
+#: inc/custom-functions.php:541
+#: inc/customizer/sections/blogpage.php:299
+#: inc/customizer/sections/singlepost.php:158
+msgid "Comment"
+msgstr ""
+
+#: inc/custom-functions.php:587
+msgid "Courses"
+msgstr ""
+
+#: inc/custom-functions.php:592
+msgid "Browsing Category"
+msgstr ""
+
+#: inc/custom-functions.php:600
+msgid "Browsing Tag"
+msgstr ""
+
+#: inc/custom-functions.php:605
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/custom-functions.php:608
+msgid "Browsing Year"
+msgstr ""
+
+#: inc/custom-functions.php:613
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/custom-functions.php:616
+msgid "Browsing Month"
+msgstr ""
+
+#: inc/custom-functions.php:621
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/custom-functions.php:624
+msgid "Browsing Day"
+msgstr ""
+
+#: inc/custom-functions.php:694
+msgid "Congratulations!"
+msgstr ""
+
+#. translators: %1$s: Theme Name
+#: inc/custom-functions.php:697
+msgid "%1$s is now installed and ready to use. Click below to see theme documentation, plugins to install and other details to get started."
+msgstr ""
+
+#: inc/custom-functions.php:698
+msgid "Go to the getting started."
+msgstr ""
+
+#: inc/custom-functions.php:699
+msgid "Dismiss"
+msgstr ""
+
+#: inc/customizer/customizer.php:112
+msgid "Successfully Flushed!"
+msgstr ""
+
+#: inc/customizer/footer.php:15
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/footer.php:18
+msgid "Customizer footer settings from here."
+msgstr ""
+
+#: inc/customizer/general.php:17
+#: inc/customizer/panels/footer/footer-widgets.php:35
+#: inc/customizer/panels/footer/footer.php:35
+#: inc/customizer/panels/general/button.php:36
+#: inc/customizer/panels/header/general-header.php:16
+#: inc/customizer/panels/header/header-button.php:36
+msgid "General"
+msgstr ""
+
+#: inc/customizer/general.php:18
+msgid "Customize Container, Sidebar, Button and Scroll to Top."
+msgstr ""
+
+#: inc/customizer/header.php:15
+msgid "Main Header"
+msgstr ""
+
+#: inc/customizer/header.php:18
+msgid "Customizer header settings from here."
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:16
+msgid "Footer Widgets"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:42
+#: inc/customizer/panels/footer/footer.php:43
+#: inc/customizer/panels/general/button.php:44
+#: inc/customizer/panels/header/header-button.php:45
+msgid "Design"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:70
+#: inc/customizer/sections/layout.php:17
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:71
+msgid "Choose the footer layouts for your site."
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:75
+msgid "Layout One"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:97
+msgid "Layout Two"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:119
+msgid "Layout Three"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:141
+msgid "Layout Four"
+msgstr ""
+
+#. translators: %1$s: Link to Footer customizer setting
+#: inc/customizer/panels/footer/footer-widgets.php:182
+msgid "%1$sClick here%2$s to add widget to the footer."
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:221
+msgid "Top Spacing"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:222
+msgid "Add the spacing above the footer area."
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:271
+#: inc/customizer/panels/footer/footer.php:93
+#: inc/customizer/panels/general/button.php:530
+#: inc/customizer/panels/general/button.php:609
+#: inc/customizer/panels/header/header-button.php:267
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:292
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer-widgets.php:313
+#: inc/customizer/panels/footer/footer.php:115
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer.php:16
+msgid "Footer Copyright"
+msgstr ""
+
+#: inc/customizer/panels/footer/footer.php:67
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:18
+#: inc/customizer/panels/header/header-button.php:91
+msgid "Button"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:104
+#: inc/customizer/panels/header/header-button.php:183
+msgid "Button Roundness"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:161
+#: inc/customizer/panels/header/header-button.php:240
+msgid "Button Padding"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:192
+msgid "Button Typography"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:295
+#: inc/customizer/sections/appearance.php:141
+#: inc/customizer/sections/appearance.php:457
+#: inc/customizer/sections/appearance.php:777
+#: inc/customizer/sections/appearance.php:1097
+#: inc/customizer/sections/appearance.php:1419
+#: inc/customizer/sections/appearance.php:1739
+#: inc/customizer/sections/appearance.php:2059
+#: inc/customizer/sections/appearance.php:2376
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:362
+#: inc/customizer/sections/appearance.php:207
+#: inc/customizer/sections/appearance.php:525
+#: inc/customizer/sections/appearance.php:845
+#: inc/customizer/sections/appearance.php:1165
+#: inc/customizer/sections/appearance.php:1487
+#: inc/customizer/sections/appearance.php:1807
+#: inc/customizer/sections/appearance.php:2127
+#: inc/customizer/sections/appearance.php:2442
+#: inc/customizer/sections/site.php:333
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:430
+#: inc/customizer/sections/appearance.php:275
+#: inc/customizer/sections/appearance.php:593
+#: inc/customizer/sections/appearance.php:913
+#: inc/customizer/sections/appearance.php:1233
+#: inc/customizer/sections/appearance.php:1555
+#: inc/customizer/sections/appearance.php:1875
+#: inc/customizer/sections/appearance.php:2195
+#: inc/customizer/sections/appearance.php:2510
+#: inc/customizer/sections/site.php:402
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:511
+msgid "%1$sButton Initial State%2$s"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:550
+#: inc/customizer/panels/general/button.php:629
+#: inc/customizer/panels/header/header-button.php:287
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:570
+#: inc/customizer/panels/general/button.php:649
+msgid "Border"
+msgstr ""
+
+#: inc/customizer/panels/general/button.php:590
+msgid "%1$sButton Hover State%1$s"
+msgstr ""
+
+#: inc/customizer/panels/general/container.php:18
+msgid "Container"
+msgstr ""
+
+#: inc/customizer/panels/general/container.php:56
+msgid "Container Width"
+msgstr ""
+
+#: inc/customizer/panels/general/container.php:123
+msgid "Fullwidth Centered Max-width"
+msgstr ""
+
+#: inc/customizer/panels/general/error.php:16
+msgid "404 Page"
+msgstr ""
+
+#: inc/customizer/panels/general/error.php:35
+msgid "404 Image"
+msgstr ""
+
+#: inc/customizer/panels/general/error.php:55
+msgid "Show Posts"
+msgstr ""
+
+#: inc/customizer/panels/general/error.php:74
+msgid "Number of posts"
+msgstr ""
+
+#: inc/customizer/panels/general/error.php:107
+msgid "Posts per row"
+msgstr ""
+
+#: inc/customizer/panels/general/scroll-to-top.php:18
+msgid "Scroll to Top"
+msgstr ""
+
+#: inc/customizer/panels/general/scroll-to-top.php:37
+msgid "Show Scroll to Top"
+msgstr ""
+
+#: inc/customizer/panels/general/scroll-to-top.php:75
+msgid "Icon Size"
+msgstr ""
+
+#: inc/customizer/panels/general/sidebar.php:18
+#: inc/widgets.php:13
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/panels/general/sidebar.php:38
+msgid "Sidebar Width"
+msgstr ""
+
+#: inc/customizer/panels/general/sidebar.php:88
+msgid "Widget Spacing"
+msgstr ""
+
+#: inc/customizer/panels/general/sidebar.php:137
+msgid "Last Widget Sticky"
+msgstr ""
+
+#. translators: %1$s: Link to Sidebar customizer setting
+#: inc/customizer/panels/general/sidebar.php:157
+msgid "You can select the default sidebar layout from %1$s here. %2$s"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:37
+msgid "Header Width"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:39
+msgid "Boxed"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:40
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:41
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:60
+msgid "Custom Header Width"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:94
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:116
+msgid "Show Cart"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:137
+msgid "%1$sNavigation Menu Settings%2$s"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:157
+msgid "Items Spacing"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:191
+msgid "Stretch Menu"
+msgstr ""
+
+#: inc/customizer/panels/header/general-header.php:211
+msgid "Dropdown Width"
+msgstr ""
+
+#: inc/customizer/panels/header/header-button.php:17
+msgid "Header Button"
+msgstr ""
+
+#: inc/customizer/panels/header/header-button.php:74
+msgid "Show Button"
+msgstr ""
+
+#: inc/customizer/panels/header/header-button.php:113
+msgid "Button Link "
+msgstr ""
+
+#: inc/customizer/panels/header/header-button.php:134
+msgid "Open in new tab"
+msgstr ""
+
+#: inc/customizer/panels/header/header-button.php:135
+msgid "Enable to open the link in a new tab."
+msgstr ""
+
+#: inc/customizer/panels/header/header-button.php:307
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/panels/header/header-contact.php:15
+msgid "Contact Settings"
+msgstr ""
+
+#: inc/customizer/panels/header/header-contact.php:36
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/panels/header/header-contact.php:60
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:17
+msgid "Social Media Settings"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:38
+msgid "Show Social Media"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:57
+msgid "Open in a new tab"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:77
+#: inc/customizer/sections/social-network.php:18
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:105
+msgid "Social Media"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:79
+#: inc/customizer/sections/social-network.php:55
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:80
+#: inc/customizer/sections/social-network.php:74
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:81
+#: inc/customizer/sections/social-network.php:92
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:82
+#: inc/customizer/sections/social-network.php:110
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:83
+#: inc/customizer/sections/social-network.php:128
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:84
+#: inc/customizer/sections/social-network.php:146
+msgid "TikTok"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:85
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:86
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:87
+#: inc/customizer/sections/social-network.php:200
+msgid "Viber"
+msgstr ""
+
+#: inc/customizer/panels/header/social-media.php:88
+#: inc/customizer/sections/social-network.php:218
+msgid "Telegram"
+msgstr ""
+
+#. translators: %1$s: Link to Social Media customizer setting
+#: inc/customizer/panels/header/social-media.php:110
+msgid "You can add links to your social media profiles %1$s here. %2$s"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:17
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:56
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:38
+msgid "Base Font"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:354
+msgid "H1 Heading"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:674
+msgid "H2 Heading"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:994
+msgid "H3 Heading"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:1316
+msgid "H4 Heading"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:1636
+msgid "H5 Heading"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:1956
+msgid "H6 Heading"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2273
+msgid "Accent Font"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2585
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2586
+msgid "This will load Google fonts from your server to speed up your site and make it GDPR compliant."
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2607
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2608
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2625
+#: inc/customizer/sections/appearance.php:2631
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: inc/customizer/sections/appearance.php:2626
+msgid "Click the button to reset the local fonts cache."
+msgstr ""
+
+#: inc/customizer/sections/archive.php:15
+msgid "Archive"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:34
+msgid "Header Background Image"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:59
+#: inc/customizer/sections/singlepage.php:35
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:79
+#: inc/customizer/sections/blogpage.php:75
+msgid "Show Description"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:99
+msgid "Hide Archive Prefix"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:119
+msgid "Show Counts"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:140
+#: inc/customizer/sections/singlepage.php:56
+msgid "Title Alignment"
+msgstr ""
+
+#: inc/customizer/sections/archive.php:143
+#: inc/customizer/sections/blogpage.php:99
+#: inc/customizer/sections/singlepage.php:59
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:15
+msgid "Blog Page"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:35
+msgid "%1$sPage Title%2$s"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:55
+msgid "Show Title"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:96
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:121
+#: inc/customizer/sections/singlepost.php:35
+msgid "%1$sImage Settings%2$s"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:141
+#: inc/customizer/sections/singlepost.php:75
+msgid "Crop Featured Image"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:142
+#: inc/customizer/sections/singlepost.php:76
+msgid "This setting crops the featured image to recommended size. If set to false, it displays the image exactly as uploaded."
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:190
+#: inc/customizer/sections/singlepost.php:125
+msgid "Border Radius"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:218
+msgid "%1$sPosts Settings%2$s"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:238
+msgid "Enable Blog Excerpt"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:240
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:241
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:262
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:263
+msgid "Automatically generated excerpt length (in words)."
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:295
+msgid "Meta Order"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:297
+#: inc/customizer/sections/singlepost.php:156
+msgid "Author"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:298
+#: inc/customizer/sections/singlepost.php:157
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:300
+#: inc/customizer/sections/singlepost.php:159
+msgid "Reading Time"
+msgstr ""
+
+#: inc/customizer/sections/blogpage.php:321
+msgid "Read More Label"
+msgstr ""
+
+#: inc/customizer/sections/colors.php:70
+msgid "Font"
+msgstr ""
+
+#: inc/customizer/sections/colors.php:91
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/sections/colors.php:112
+msgid "Primary Accent Color"
+msgstr ""
+
+#: inc/customizer/sections/colors.php:133
+msgid "Secondary Accent Color"
+msgstr ""
+
+#: inc/customizer/sections/colors.php:154
+msgid "Tertiary Accent Color"
+msgstr ""
+
+#: inc/customizer/sections/colors.php:175
+msgid "Site Background"
+msgstr ""
+
+#. translators: %1$s: Link to Button Color customizer setting
+#: inc/customizer/sections/colors.php:196
+msgid "You can change button colors from %1$s here. %2$s"
+msgstr ""
+
+#: inc/customizer/sections/info.php:93
+msgid "VIEW PRO VERSION"
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:16
+msgid "Instagram Settings"
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:37
+msgid "Instagram Section"
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:38
+msgid "Enable to show Instagram Section throughout your site."
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:55
+msgid "Shortcode"
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:57
+msgid "Add shortcode for your instagram profile below:"
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:76
+msgid "Instagram on Homepage"
+msgstr ""
+
+#: inc/customizer/sections/instagram.php:77
+msgid "Show Instagram Section only on Homepage"
+msgstr ""
+
+#. translators: %1$s: Link to BlossomThemes Social Feed plugin admin page
+#: inc/customizer/sections/instagram.php:100
+msgid "You can change the setting BlossomThemes Social Feed %1$sfrom here%2$s."
+msgstr ""
+
+#: inc/customizer/sections/layout.php:20
+msgid "Change different Blog page & General Sidebar layout from here."
+msgstr ""
+
+#: inc/customizer/sections/layout.php:28
+msgid "Sidebar Layouts"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:48
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:49
+msgid "This is the general sidebar layout for pages. You can override the sidebar layout for individual page in respective page."
+msgstr ""
+
+#: inc/customizer/sections/layout.php:53
+#: inc/customizer/sections/layout.php:93
+#: inc/customizer/sections/layout.php:133
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:57
+#: inc/customizer/sections/layout.php:97
+msgid "Fullwidth Centered"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:61
+#: inc/customizer/sections/layout.php:101
+#: inc/customizer/sections/layout.php:137
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:65
+#: inc/customizer/sections/layout.php:105
+#: inc/customizer/sections/layout.php:141
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:88
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:89
+msgid "This is the general sidebar layout for posts. You can override the sidebar layout for individual post in respective post."
+msgstr ""
+
+#: inc/customizer/sections/layout.php:128
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/sections/layout.php:129
+msgid "This is the general sidebar layout for whole site."
+msgstr ""
+
+#. translators: %1$s: Link to Sidebar customizer setting
+#: inc/customizer/sections/layout.php:164
+msgid "%1$sClick here%2$s to configure Sidebar settings."
+msgstr ""
+
+#: inc/customizer/sections/seo.php:17
+msgid "SEO Settings"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:37
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:57
+msgid "Breadcrumb Home Text"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:83
+msgid "Separator"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:88
+msgid "Type 1"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:92
+msgid "Type 2"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:96
+msgid "Type 3"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:120
+msgid "Show Last Updated Post Date"
+msgstr ""
+
+#: inc/customizer/sections/seo.php:121
+msgid "Enable to show last updated post date on listing as well as in single post."
+msgstr ""
+
+#: inc/customizer/sections/singlepage.php:15
+#: inc/template-functions.php:632
+#: inc/template-functions.php:654
+msgid "Page"
+msgstr ""
+
+#: inc/customizer/sections/singlepage.php:81
+#: inc/customizer/sections/singlepost.php:55
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer/sections/singlepage.php:100
+#: inc/customizer/sections/singlepost.php:489
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:15
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:154
+msgid "Post Meta Settings"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:178
+msgid "Read Words Per Minute"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:180
+msgid "Blog Posts Content Words Reading Speed Per Minute."
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:213
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:233
+msgid "Show Post Tags"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:253
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:273
+msgid "Show Author Box"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:293
+msgid "Author Section Title"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:318
+msgid "%1$sRelated Post Settings%2$s"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:338
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:358
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:411
+msgid "Image Border Radius"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:438
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:470
+msgid "%1$sComment Settings%2$s"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:509
+msgid "Comment Form"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:511
+msgid "Above"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:512
+msgid "Below"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:514
+msgid "Move the comment form above or below the comments."
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:535
+msgid "Comment Location"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:537
+msgid "Below Post"
+msgstr ""
+
+#: inc/customizer/sections/singlepost.php:538
+msgid "At End"
+msgstr ""
+
+#: inc/customizer/sections/site.php:50
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/customizer/sections/site.php:71
+msgid "Hide Site Tagline"
+msgstr ""
+
+#: inc/customizer/sections/site.php:111
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/sections/site.php:161
+msgid "Site Title Typography"
+msgstr ""
+
+#: inc/customizer/sections/site.php:264
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/sections/site.php:481
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/sections/site.php:503
+msgid "Site Tagline Color"
+msgstr ""
+
+#: inc/customizer/sections/social-network.php:37
+msgid "Add the links to your social media accounts and display them across your site."
+msgstr ""
+
+#: inc/customizer/sections/social-network.php:164
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/sections/social-network.php:182
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/customizer/sections/title.php:16
+msgid "Core"
+msgstr ""
+
+#: inc/customizer/sections/title.php:27
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/sections/title.php:38
+msgid "Posts and Pages"
+msgstr ""
+
+#: inc/customizer/sections/title.php:50
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/defaults.php:400
+msgid "Home"
+msgstr ""
+
+#: inc/defaults.php:412
+msgid "Read More"
+msgstr ""
+
+#: inc/defaults.php:422
+msgid "About Author"
+msgstr ""
+
+#: inc/defaults.php:424
+msgid "You may also like..."
+msgstr ""
+
+#: inc/elementor-compatibility.php:49
+msgid "Font Color"
+msgstr ""
+
+#: inc/elementor-compatibility.php:61
+msgid "Primary Accent"
+msgstr ""
+
+#: inc/elementor-compatibility.php:67
+msgid "Secondary Accent"
+msgstr ""
+
+#: inc/elementor-compatibility.php:73
+msgid "Tertiary Accent"
+msgstr ""
+
+#: inc/extras.php:70
+#: inc/extras.php:141
+msgid "Open"
+msgstr ""
+
+#: inc/extras.php:78
+#: inc/extras.php:152
+msgid "Close"
+msgstr ""
+
+#: inc/extras.php:107
+msgid "Click here to add a menu"
+msgstr ""
+
+#: inc/extras.php:203
+msgid "Open Search Form"
+msgstr ""
+
+#: inc/extras.php:211
+msgid "search form close"
+msgstr ""
+
+#: inc/extras.php:322
+msgid "Updated on "
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/extras.php:355
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/extras.php:375
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/extras.php:437
+msgid " min read"
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/extras.php:471
+msgid "%1$sTags:%2$s %3$s"
+msgstr ""
+
+#: inc/extras.php:498
+msgid "Recommended For You"
+msgstr ""
+
+#: inc/extras.php:551
+msgid "GO TO BLOG"
+msgstr ""
+
+#. translators: %s: search query keyword
+#: inc/extras.php:660
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: inc/extras.php:663
+#: inc/extras.php:665
+#: inc/extras.php:667
+#: inc/extras.php:670
+#: inc/extras.php:672
+#: inc/extras.php:675
+#: inc/partials.php:127
+msgid "Y"
+msgstr ""
+
+#: inc/extras.php:665
+#: inc/extras.php:667
+#: inc/extras.php:672
+msgid "m"
+msgstr ""
+
+#: inc/extras.php:665
+#: inc/extras.php:672
+msgid "F"
+msgstr ""
+
+#: inc/extras.php:667
+msgid "d"
+msgstr ""
+
+#. translators: %s: Page Number
+#: inc/extras.php:753
+msgid "Page %s"
+msgstr ""
+
+#: inc/extras.php:780
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#. translators: %s: Page Number
+#: inc/extras.php:783
+msgid " (Page %s)"
+msgstr ""
+
+#: inc/extras.php:851
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: %s: Link to comment author
+#: inc/extras.php:856
+msgid "<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"https://schema.org/Person\">%s</b> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/extras.php:858
+msgid "Posted on"
+msgstr ""
+
+#. translators: %1$s: Comment date %2$s: Comment time
+#: inc/extras.php:864
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. translators: %1$s: Number of visible posts %2$s: Total number of available posts
+#: inc/extras.php:899
+msgid "Showing %1$s of %2$s Results"
+msgstr ""
+
+#. translators: 1: found posts.
+#: inc/extras.php:903
+msgctxt "found posts"
+msgid "%s Result"
+msgid_plural "%s Results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/extras.php:1240
+msgid "Get Coachify Pro"
+msgstr ""
+
+#: inc/getting-started/ajax-functions.php:96
+msgid "Theme"
+msgstr ""
+
+#: inc/getting-started/ajax-functions.php:227
+msgid "Security Error, Please reload the page."
+msgstr ""
+
+#: inc/getting-started/ajax-functions.php:230
+msgid "Security Error, Need higher Permissions to install plugin."
+msgstr ""
+
+#: inc/getting-started/ajax-functions.php:288
+msgid "Error, plugin could not be installed, please install manually."
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:31
+msgid "Elementor"
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:32
+msgid "Elementor is one of the most advanced frontend drag & drop page builders to help you create pixel-perfect websites in less time."
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:37
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:38
+msgid "WooCommerce is the world's most popular eCommerce plugin that helps you to create an online store easily."
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:43
+msgid "Mega Elements - Addons for Elementor"
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:44
+msgid "Addons for Elementor: Mega Elements is a powerful and advanced Elementor add-ons plugin that offers several Elementor widgets to build a beautiful website."
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:49
+msgid "Rank Math SEO"
+msgstr ""
+
+#: inc/getting-started/CoachifyDashboardPlugins.php:50
+msgid "Rank Math SEO is one of the most popular and powerful SEO plugins with tons of features to make your site SEO optimized and rank higher on search engines."
+msgstr ""
+
+#: inc/getting-started/getting-started.php:58
+msgid "Browse Coachify Starter Templates"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:62
+msgid "Install Coachify Starter Templates"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:65
+msgid "Activate Coachify Starter Templates"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:73
+msgid "Activating"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:74
+msgid "Deactivating"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:75
+#: inc/tgmpa/class-tgm-plugin-activation.php:2876
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/plugins/usefulPluginBlock.js:65
+msgid "Activate"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:76
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/plugins/usefulPluginBlock.js:54
+msgid "Deactivate"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:77
+msgid "Settings"
+msgstr ""
+
+#: inc/getting-started/getting-started.php:78
+msgid "Browse Starter Templates"
+msgstr ""
+
+#: inc/partials.php:126
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/partials.php:129
+msgid "All Rights Reserved. "
+msgstr ""
+
+#: inc/template-functions.php:42
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#. translators: %1$s: Opening heading tag %2$s%3$s: post author in span tag %4$s: Closing heading tag
+#: inc/template-functions.php:192
+msgid "%1$s %2$s%3$s%4$s"
+msgstr ""
+
+#: inc/template-functions.php:214
+msgid "Search"
+msgstr ""
+
+#: inc/template-functions.php:461
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:520
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-functions.php:562
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/template-functions.php:577
+msgid "Previous Article"
+msgstr ""
+
+#: inc/template-functions.php:601
+msgid "Next Article"
+msgstr ""
+
+#: inc/template-functions.php:630
+#: inc/template-functions.php:652
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:631
+#: inc/template-functions.php:653
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:856
+msgid " Coachify | Developed By "
+msgstr ""
+
+#. translators: %s: Link to WordPress
+#: inc/template-functions.php:859
+msgid " Powered by %s. "
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:343
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:345
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:348
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:354
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:360
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:366
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:372
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:400
+#: inc/tgmpa/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#: inc/tgmpa/class-tgm-plugin-activation.php:3103
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:405
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:407
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:409
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:616
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1042
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1052
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1243
+#: inc/tgmpa/class-tgm-plugin-activation.php:3099
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:2112
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2536
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2540
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2544
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2630
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2751
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2756
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2762
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2867
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/plugins/usefulPluginBlock.js:80
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2873
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/changeLog.js:144
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3655
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3658
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3660
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3664
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3666
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3669
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3672
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3674
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3677
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Smash Balloon Social Photo Feed"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "Demo Importer Plus"
+msgstr ""
+
+#: inc/widgets.php:15
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/widgets.php:18
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets.php:20
+msgid "Add footer one widgets here."
+msgstr ""
+
+#: inc/widgets.php:23
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets.php:25
+msgid "Add footer two widgets here."
+msgstr ""
+
+#: inc/widgets.php:28
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets.php:30
+msgid "Add footer three widgets here."
+msgstr ""
+
+#: inc/widgets.php:33
+msgid "Footer Four"
+msgstr ""
+
+#: inc/widgets.php:35
+msgid "Add footer four widgets here."
+msgstr ""
+
+#: inc/woocommerce-functions.php:42
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:44
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#: inc/woocommerce-functions.php:115
+#: inc/woocommerce-functions.php:138
+msgid "View your shopping cart"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/UpgrageToPro.js:8
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/UpgrageToPro.js:9
+msgid "With the Pro version, you get access to more templates, advanced add-ons, additional layouts for headers, blogs and single posts along with many other advanced features."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:17
+#: src/js/dashboard/pages/general/AddonsInfo.js:26
+#: src/js/dashboard/pages/general/AddonsInfo.js:37
+#: src/js/dashboard/pages/general/AddonsInfo.js:46
+#: src/js/dashboard/pages/general/AddonsInfo.js:57
+#: src/js/dashboard/pages/sidebarinfo/UpgrageToPro.js:10
+msgid "Learn More"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/index.js:11
+msgid "Documentation"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/index.js:12
+msgid "Explore our detailed beginner-friendly documentation to setup your site easily."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/index.js:13
+msgid "Explore Documentation"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/DashHeader.js:24
+#: src/js/dashboard/pages/sidebarinfo/index.js:18
+msgid "Support"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/index.js:19
+msgid "If you are facing any issue with our theme, submit a support ticket here."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/sidebarinfo/index.js:20
+msgid "Contact Support"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:8
+msgid "Explore Coachify Pro Addons"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:9
+msgid "Upgrade Now"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:15
+msgid "Performance Booster"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:16
+msgid "Optimize your website performance to load faster."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:24
+msgid "Header/Footer Scripts"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:25
+msgid "Add custom scripts directly to your site without any extra plugins."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:35
+msgid "Custom Fonts"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:44
+msgid "Events"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:45
+msgid "Add Events feature to display events on your site."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:55
+msgid "Customizer Reset"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/AddonsInfo.js:56
+msgid "Quickly reset your customizer settings to default."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:15
+msgid "Welcome to Coachify"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:17
+msgid "Coachify is a lead-generating coaching WordPress theme built for coaches, consultants, therapists, entrepreneurs, mentors, speakers, nutritionists and personal development experts. It is core web vital optimized, SEO-optimized, and schema-friendly to help you rank your website better."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:19
+msgid "Start Customizing"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:30
+msgid "Quick Customizer Settings"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:31
+msgid "Go To Customizer"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:38
+msgid "Site Logo"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:39
+#: src/js/dashboard/pages/general/index.js:48
+#: src/js/dashboard/pages/general/index.js:57
+#: src/js/dashboard/pages/general/index.js:68
+#: src/js/dashboard/pages/general/index.js:77
+#: src/js/dashboard/pages/general/index.js:86
+#: src/js/dashboard/pages/general/index.js:97
+#: src/js/dashboard/pages/general/index.js:106
+#: src/js/dashboard/pages/general/index.js:115
+msgid "Customize"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:47
+msgid "Colors"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:67
+msgid "Header Menu"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:76
+msgid "Footer Settings"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:85
+msgid "Single Post Settings"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:96
+msgid "Buttons"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/general/index.js:114
+msgid "Sidebar Settings"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/startersettings/index.js:44
+msgid "Coachify theme includes variety of started templates suited for different niches of websites. New designs are added frequently to the collection. %sVisit Here%s to see all the templates."
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/plugins/usefulPluginBlock.js:91
+msgid "Download"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:1
+#: src/js/dashboard/pages/plugins/usefulPluginBlock.js:97
+msgid "COMING SOON"
+msgstr ""
+
+#. translators: placeholder here means the actual version.
+#: dist/dashboard/dashboard.js:3
+#: src/js/dashboard/pages/header/changeLog.js:39
+msgid "Version: %s"
+msgstr ""
+
+#. translators: placeholder here means the actual date.
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/changeLog.js:46
+msgid "Released on %s"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/changeLog.js:136
+msgid "New"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/changeLog.js:140
+msgid "Fix"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/changeLog.js:152
+msgid "Coachify Theme"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/changeLog.js:157
+msgid "Coachify Pro"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/DashHeader.js:26
+#: src/js/dashboard/pages/header/DisplayChangelog.js:15
+msgid "Changelog"
+msgstr ""
+
+#: dist/dashboard/dashboard.js:5
+#: src/js/dashboard/pages/header/DashHeader.js:25
+msgid "Docs"
+msgstr ""
+
+#: dist/meta/meta.js:1
+#: src/js/meta/CoachifyRadio.js:44
+msgid "Choose Sidebar Layout"
+msgstr ""
+
+#: dist/meta/meta.js:1
+#: src/js/meta/index.js:11
+msgid "Coachify Post Details"
+msgstr ""
+
+#: dist/meta/meta.js:1
+#: src/js/meta/index.js:18
+msgid "Sidebar Layout"
+msgstr ""
